@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Social App",
+    "slug": "react-native-social-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": false },
+    "android": { "package": "dev.presetyx.socialapp" }
+  }
+}
