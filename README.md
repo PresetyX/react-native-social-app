@@ -42,3 +42,7 @@ src/screens/            Login, Feed, Chat, Profile
 src/components/         PostCard, Avatar
 tests/                  node:test suites for the store and services
 ```
+
+## Development history
+
+This project was developed locally between 2025-11-26 and 2025-12-17. The commit history was created afterwards, and the commit dates were adjusted to match the period in which the work was actually done.
